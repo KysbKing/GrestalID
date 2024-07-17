@@ -1,0 +1,1 @@
+pip instal requests colorama pyfiglet random UserAgent fake_useragent
